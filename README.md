@@ -4,7 +4,9 @@
 
 ## 制作动机
 
-[2025 年 11 月，谷歌开源了 Google Sans](https://developers.google.com/fonts/faq?hl=zh-cn#can_i_use_the_google_sans_and_google_sans_flex_fonts)，[该字体支持了极为可观的 19 种文字](https://fonts.google.com/specimen/Google+Sans/glyphs)，同时也有不错的质量。为方便使用，缝合了思源黑体，制作了本字体。
+[2025 年 11 月，谷歌开源了 Google Sans](https://developers.google.com/fonts/faq?hl=zh-cn#can_i_use_the_google_sans_and_google_sans_flex_fonts)，[该字体支持了极为可观的 **19** 种文字](https://fonts.google.com/specimen/Google+Sans/glyphs)，同时也有不错的质量。为方便使用，缝合了思源黑体。
+
+本字体名称由谷歌 [Gemini](https://gemini.google.com/) 所取（英文名稍作修改），Gemini 称其为“直观体现几何（**Geo**metry）与思源（S**ource**）的重构”。
 
 提供`圆构黑体 Alt`，采用等宽数字、全角引号和单层 `a`。
 
@@ -51,7 +53,7 @@
 - [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)（构建字体）
 - [思源黑体](https://github.com/adobe-fonts/source-han-sans)（CJK 部分）
 - [昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)（`CHT` 版本 CJK 部分）
-- [Google Sans](https://fonts.google.com/specimen/Google+Sans)（西文）
+- [Google Sans](https://fonts.google.com/specimen/Google+Sans)（其他文种）
 
 ## Star History
 
@@ -62,13 +64,3 @@
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=howlingFounts/GeourceSans&type=timeline&legend=top-left" />
  </picture>
 </a>
-
-<!--
-<details>
-
-<summary>“不过，我还是觉得没有‘果味’。”</summary>
-
-_本字体不保证 100% 还原“果味”。_
-
-</details>
--->
