@@ -1,0 +1,94 @@
+{
+	"buildOptions": {},
+	"familyOrder": ["Sans", "Alt"],
+	"families": {
+		"Sans": {
+			"isPWID": true,
+			"latinGroup": "GoogleSans",
+			"naming": {
+				"en_US": "Geource Sans",
+				"zh_CN": "圆构黑体",
+				"zh_TW": "圓構黑體",
+				"zh_HK": "圓構黑體",
+				"ja_JP": "圓構ゴシック"
+			}
+		},
+		"Alt": {
+			"isTNUM": true,
+			"isSS08": true,
+			"isGothic": true,
+			"latinGroup": "GoogleSans",
+			"naming": {
+				"en_US": "Geource Sans Alt",
+				"zh_CN": "圆构黑体 Alt",
+				"zh_TW": "圓構黑體 Alt",
+				"zh_HK": "圓構黑體 Alt",
+				"ja_JP": "圓構ゴシック Alt"
+			}
+		}
+	},
+	"styleOrder": [
+		"Regular",
+		"Medium",
+		"Bold"
+	],
+	"latinGroups": {
+		"GoogleSans": {
+			"isCff": false,
+			"bakeFeatures": [],
+			"dropFeatures": []
+		}
+	},
+	"styles": {
+		"Regular": {
+			"name": "Regular"
+		},
+		"Medium": {
+			"name": "Medium"
+		},
+		"Bold": {
+			"name": "Bold"
+		}
+	},
+	"subfamilyOrder": ["CHS", "CHT", "JPN"],
+	"os2encodings": {
+		"JPN": {
+			"gbk": false,
+			"big5": false,
+			"jis": true,
+			"korean": false
+		},
+		"CHS": {
+			"gbk": true,
+			"big5": false,
+			"jis": false,
+			"korean": false
+		},
+		"CHT": {
+			"gbk": false,
+			"big5": true,
+			"jis": false,
+			"korean": false
+		}
+	},
+	"nameTupleSelector": {
+		"JPN": ["en_US", "ja_JP", "zh_CN", "zh_HK", "zh_TW", "ko_KR"],
+		"CHS": ["en_US", "zh_CN", "zh_HK", "zh_TW", "ja_JP", "ko_KR"],
+		"CHT": ["en_US", "zh_TW", "zh_CN", "zh_HK", "ja_JP", "ko_KR"]
+	},
+	"copyright": "Copyright (c) 2026, howlingFounts. Portions Copyright (c) 2015-2025, Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright 2025 The Google Sans Project Authors (github.com/googlefonts/googlesans). Portions Copyright (c) 2014-2021 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions Copyright 2023-2025 Tamcy (https://github.com/chiron-fonts/chiron-hei-hk). Portions Copyright (c) 2012 Google Inc. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+	"shsSourceMap": {
+		"defaultRegion": "SourceHanSans",
+		"region": {
+			"JPN": "SourceHanSans",
+			"CHS": "SourceHanSansSC",
+			"CHT": "SourceHanSansHC"
+		},
+		"styleMap": {
+		},
+		"classicalRegion": "CHT",
+		"classicalOverridePrefix": "ChironHeiHK",
+		"classicalOverrideSuffixMap": {
+		}
+	}
+}
