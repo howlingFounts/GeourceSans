@@ -1,10 +1,10 @@
 # 圆构黑体
 
-圆构黑体，基于 [Google Sans](https://fonts.google.com/specimen/Google+Sans)、[思源黑体](https://github.com/adobe-fonts/source-han-sans)和[昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)，商用免费的多文种混排字体。
+圆构黑体，基于 [Google Sans](https://github.com/googlefonts/googlesans)、[思源黑体](https://github.com/adobe-fonts/source-han-sans)和[昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)，商用免费的多文种混排字体。
 
 ## 制作动机
 
-[2025 年 11 月，谷歌开源了 Google Sans](https://developers.google.com/fonts/faq?hl=zh-cn#can_i_use_the_google_sans_and_google_sans_flex_fonts)，[该字体支持了极为可观的 **19** 种文字](https://fonts.google.com/specimen/Google+Sans/glyphs)，同时也有不错的质量。为方便使用，缝合了思源黑体。
+[2025 年 11 月，谷歌开源了 Google Sans](https://developers.google.com/fonts/faq?hl=zh-cn#can_i_use_the_google_sans_and_google_sans_flex_fonts)，当时，[该字体支持了极为可观的 **19** 种文字](https://fonts.google.com/specimen/Google+Sans/glyphs)（且未来还会增加更多文种），同时也有不错的质量。为方便使用，缝合了思源黑体。
 
 本字体名称由谷歌 [Gemini](https://gemini.google.com/) 所取（英文名稍作修改），Gemini 称其为“直观体现几何（**Geo**metry）与思源（S**ource**）的重构”。
 
@@ -34,6 +34,7 @@
 - 泰卢固文
 - 马拉雅拉姆文
 - 僧伽罗文
+- 阿拉伯文
 
 ## 字名解读
 
@@ -53,14 +54,4 @@
 - [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)（构建字体）
 - [思源黑体](https://github.com/adobe-fonts/source-han-sans)（CJK 部分）
 - [昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)（`CHT` 版本 CJK 部分）
-- [Google Sans](https://fonts.google.com/specimen/Google+Sans)（其他文种）
-
-## Star History
-
-<a href="https://www.star-history.com/#howlingFounts/GeourceSans&type=timeline&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=howlingFounts/GeourceSans&type=timeline&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=howlingFounts/GeourceSans&type=timeline&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=howlingFounts/GeourceSans&type=timeline&legend=top-left" />
- </picture>
-</a>
+- [Google Sans](https://github.com/googlefonts/googlesans)（其他文种）

@@ -76,7 +76,7 @@
 		"CHS": ["en_US", "zh_CN", "zh_HK", "zh_TW", "ja_JP", "ko_KR"],
 		"CHT": ["en_US", "zh_TW", "zh_CN", "zh_HK", "ja_JP", "ko_KR"]
 	},
-	"copyright": "Copyright (c) 2026, howlingFounts. Portions Copyright (c) 2015-2025, Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright 2025 The Google Sans Project Authors (github.com/googlefonts/googlesans). Portions Copyright (c) 2014-2021 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions Copyright 2023-2025 Tamcy (https://github.com/chiron-fonts/chiron-hei-hk). Portions Copyright (c) 2012 Google Inc. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+	"copyright": "Copyright (c) 2026, howlingFounts. Portions Copyright (c) 2015-2025, Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright 2025 The Google Sans Project Authors (github.com/googlefonts/googlesans). Portions Copyright (c) 2014-2021 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions Copyright 2023-2025 Tamcy (https://github.com/chiron-fonts/chiron-hei-hk). This Font Software is licensed under the SIL Open Font License, Version 1.1.",
 	"shsSourceMap": {
 		"defaultRegion": "SourceHanSans",
 		"region": {
